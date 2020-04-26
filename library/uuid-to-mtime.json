@@ -1,0 +1,147 @@
+{
+  "9836134e-b892-4283-b6b2-78b5acf3ed45": {
+    "asset": 1577454458000,
+    "meta": 1577454458000,
+    "relativePath": "effects"
+  },
+  "f8e6b000-5643-4b86-9080-aa680ce1f599": {
+    "asset": 1577454458000,
+    "meta": 1577454458000,
+    "relativePath": "image"
+  },
+  "5c3eedba-6c41-4c0c-9ba7-d91f813cbd1c": {
+    "asset": 1577454458000,
+    "meta": 1577454458000,
+    "relativePath": "materials"
+  },
+  "fc09f9bd-2cce-4605-b630-8145ef809ed6": {
+    "asset": 1577454458000,
+    "meta": 1577454458000,
+    "relativePath": "misc"
+  },
+  "db019bf7-f71c-4111-98cf-918ea180cb48": {
+    "asset": 1577454458000,
+    "meta": 1577454458000,
+    "relativePath": "model"
+  },
+  "e39e96e6-6f6e-413f-bcf1-ac7679bb648a": {
+    "asset": 1577454458000,
+    "meta": 1577454458000,
+    "relativePath": "model/prefab"
+  },
+  "f6e6dd15-71d1-4ffe-ace7-24fd39942c05": {
+    "asset": 1577454458000,
+    "meta": 1577454458000,
+    "relativePath": "obsolete"
+  },
+  "f743d2b6-b7ea-4c14-a55b-547ed4d0a045": {
+    "asset": 1577454458000,
+    "meta": 1577454458000,
+    "relativePath": "particle"
+  },
+  "ae6c6c98-11e4-452f-8758-75f5c6a56e83": {
+    "asset": 1577454458000,
+    "meta": 1577454458000,
+    "relativePath": "prefab"
+  },
+  "a3ee0214-b432-4865-9666-4a3211814282": {
+    "asset": 1577454458000,
+    "meta": 1577454458000,
+    "relativePath": "prefab/light"
+  },
+  "d8afc78c-4eac-4a9f-83dd-67bc70344d33": {
+    "asset": 1577454458000,
+    "meta": 1577454458000,
+    "relativePath": "resources"
+  },
+  "294c1663-4adf-4a1e-a795-53808011a38a": {
+    "asset": 1577454458000,
+    "meta": 1577454458000,
+    "relativePath": "resources/effects"
+  },
+  "bbee2217-c261-49bd-a8ce-708d6bcc3500": {
+    "asset": 1577454458000,
+    "meta": 1577454458000,
+    "relativePath": "resources/materials"
+  },
+  "29f52784-2fca-467b-92e7-8fd9ef8c57b7": {
+    "asset": 1587878029599,
+    "meta": 1587553623660,
+    "relativePath": "Scene"
+  },
+  "4734c20c-0db8-4eb2-92ea-e692f4d70934": {
+    "asset": 1587878018540,
+    "meta": 1587553623660,
+    "relativePath": "script"
+  },
+  "2d2f792f-a40c-49bb-a189-ed176a246e49": {
+    "asset": 1587878559281,
+    "meta": 1587878559297,
+    "relativePath": "Scene/aStar.fire"
+  },
+  "7b81d4e8-ec84-4716-968d-500ac1d78a54": {
+    "asset": 1587553623665,
+    "meta": 1587553623660,
+    "relativePath": "Texture"
+  },
+  "a8027877-d8d6-4645-97a0-52d4a0123dba": {
+    "asset": 1587553623667,
+    "meta": 1587553631647,
+    "relativePath": "Texture/singleColor.png"
+  },
+  "6aa0aa6a-ebee-4155-a088-a687a6aadec4": {
+    "asset": 1587553623666,
+    "meta": 1587553631690,
+    "relativePath": "Texture/HelloWorld.png"
+  },
+  "14eceb90-3405-4f69-bb19-102b76043324": {
+    "asset": 1587558216239,
+    "meta": 1587553691369,
+    "relativePath": "resources"
+  },
+  "bd5639f2-6017-45f4-b8c1-56e9c8ca21f4": {
+    "asset": 1587554161326,
+    "meta": 1587554161327,
+    "relativePath": "res"
+  },
+  "78a962b6-ee9f-4501-8ec0-d3895daa2ade": {
+    "asset": 1587554203525,
+    "meta": 1587554216185,
+    "relativePath": "resources/start.png"
+  },
+  "da8e559b-df40-416f-9c35-14667d2c154c": {
+    "asset": 1587554203526,
+    "meta": 1587554228370,
+    "relativePath": "resources/tupng.png"
+  },
+  "23003d1e-e6ef-49be-b966-bbffd9fe73e0": {
+    "asset": 1587554203526,
+    "meta": 1587554219456,
+    "relativePath": "resources/end.png"
+  },
+  "b8345f18-84d8-484c-aca4-bd1ed9fb18f5": {
+    "asset": 1587558219479,
+    "meta": 1587558211018,
+    "relativePath": "resources/profeb"
+  },
+  "86c77532-356e-4e07-8d3f-289f839118fc": {
+    "asset": 1587878319038,
+    "meta": 1587878319051,
+    "relativePath": "resources/profeb/iconVIew.prefab"
+  },
+  "fefb36e5-db9b-489f-80d8-24b82c5bf94a": {
+    "asset": 1587864599276,
+    "meta": 1587878061922,
+    "relativePath": "script/iconView.js"
+  },
+  "280c3aec-6492-4a9d-9f51-a9b00b570b4a": {
+    "asset": 1587878558134,
+    "meta": 1587878558899,
+    "relativePath": "script/aStart.js"
+  },
+  "398c4c56-058e-4502-ae8e-207c98a46af6": {
+    "asset": 1587881537877,
+    "meta": 1587881540413,
+    "relativePath": "script/aStartController.js"
+  }
+}

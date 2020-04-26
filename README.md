@@ -1,2 +1,2 @@
-# A_Start
-A_start
+# hello-world
+Hello world new project template.

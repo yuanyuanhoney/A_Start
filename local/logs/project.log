@@ -1,0 +1,82 @@
+2020-04-26T05:14:12.725Z - normal: Load ~/.CocosCreator/settings.json
+2020-04-26T05:14:12.780Z - normal: Initializing Asset Database
+2020-04-26T05:14:12.782Z - normal: checking language setting...
+2020-04-26T05:14:12.783Z - normal: Language: zh
+2020-04-26T05:14:13.221Z - success: preview server running at http://localhost:7456
+2020-04-26T05:14:13.260Z - success: protocol editor-framework registered
+2020-04-26T05:14:13.260Z - success: protocol app registered
+2020-04-26T05:14:13.260Z - success: protocol theme registered
+2020-04-26T05:14:13.261Z - success: protocol packages registered
+2020-04-26T05:14:13.261Z - success: protocol uuid registerred
+2020-04-26T05:14:13.261Z - success: protocol db registerred
+2020-04-26T05:14:13.261Z - success: protocol thumbnail registerred
+2020-04-26T05:14:13.261Z - success: protocol unpack registerred
+2020-04-26T05:14:13.261Z - success: protocol disable-commonjs registerred
+2020-04-26T05:14:15.604Z - normal: connected!
+2020-04-26T05:14:15.605Z - normal: Check project /Users/tuyoo/Documents/cocosCreatPro/A_star
+2020-04-26T05:14:15.606Z - normal: Initializing project /Users/tuyoo/Documents/cocosCreatPro/A_star
+2020-04-26T05:14:15.626Z - success: adapters loaded
+2020-04-26T05:14:15.652Z - success: asset-db-debugger loaded
+2020-04-26T05:14:15.731Z - success: fb-audience-network loaded
+2020-04-26T05:14:15.756Z - success: fb-live-stream loaded
+2020-04-26T05:14:15.759Z - success: google-play-instant loaded
+2020-04-26T05:14:15.765Z - success: huawei-runtime loaded
+2020-04-26T05:14:15.766Z - success: jkw-adapter loaded
+2020-04-26T05:14:15.767Z - success: jsb-adapter loaded
+2020-04-26T05:14:15.771Z - success: oppo-runtime loaded
+2020-04-26T05:14:15.797Z - success: package-manager loaded
+2020-04-26T05:14:15.798Z - success: qtt-adapter loaded
+2020-04-26T05:14:15.800Z - success: runtime-dev-tools loaded
+2020-04-26T05:14:15.828Z - success: sdkbox loaded
+2020-04-26T05:14:15.857Z - success: ui-kit-preview-extra loaded
+2020-04-26T05:14:15.882Z - success: ui-kit-preview loaded
+2020-04-26T05:14:15.888Z - success: vivo-runtime loaded
+2020-04-26T05:14:15.891Z - success: alipay-minigame loaded
+2020-04-26T05:14:15.966Z - success: assets loaded
+2020-04-26T05:14:15.970Z - success: baidugame-opendata loaded
+2020-04-26T05:14:15.973Z - success: baidugame loaded
+2020-04-26T05:14:16.002Z - success: builder loaded
+2020-04-26T05:14:16.185Z - success: cocos-services loaded
+2020-04-26T05:14:16.211Z - success: console loaded
+2020-04-26T05:14:16.223Z - success: fb-instant-games loaded
+2020-04-26T05:14:16.248Z - success: game-window loaded
+2020-04-26T05:14:16.250Z - success: google-instant-games loaded
+2020-04-26T05:14:16.275Z - success: hierarchy loaded
+2020-04-26T05:14:16.304Z - success: inspector loaded
+2020-04-26T05:14:16.577Z - success: cpk-publish loaded
+2020-04-26T05:14:16.580Z - success: keystore loaded
+2020-04-26T05:14:16.610Z - success: node-library loaded
+2020-04-26T05:14:16.622Z - success: open-recent-items loaded
+2020-04-26T05:14:16.624Z - success: package-asset loaded
+2020-04-26T05:14:16.626Z - success: preferences loaded
+2020-04-26T05:14:16.650Z - success: project-exporter loaded
+2020-04-26T05:14:16.675Z - success: project-importer loaded
+2020-04-26T05:14:16.703Z - success: project-settings loaded
+2020-04-26T05:14:16.718Z - success: qtt-runtime loaded
+2020-04-26T05:14:16.743Z - success: scene loaded
+2020-04-26T05:14:16.745Z - success: simulator-debugger loaded
+2020-04-26T05:14:16.745Z - success: sprite-editor loaded
+2020-04-26T05:14:16.774Z - success: store loaded
+2020-04-26T05:14:16.800Z - success: timeline loaded
+2020-04-26T05:14:16.803Z - success: wechatgame-opendata loaded
+2020-04-26T05:14:16.808Z - success: wechatgame loaded
+2020-04-26T05:14:16.812Z - success: xiaomi-runtime loaded
+2020-04-26T05:14:17.585Z - normal: Initializing Cocos2d
+2020-04-26T05:14:18.010Z - normal: Initializing engine extends
+2020-04-26T05:14:19.655Z - info: Cocos Service load base data!
+2020-04-26T05:14:22.072Z - normal: Loading packages
+2020-04-26T05:14:22.078Z - normal: Watching packages
+2020-04-26T05:14:22.171Z - normal: Run Application
+2020-04-26T05:18:36.384Z - info: 只有预制节点 "iconVIew" 及其子节点会被保存。
+2020-04-26T05:18:36.635Z - info: 只有预制节点 "iconVIew" 及其子节点会被保存。
+2020-04-26T05:18:36.870Z - info: 只有预制节点 "iconVIew" 及其子节点会被保存。
+2020-04-26T05:18:37.107Z - info: 只有预制节点 "iconVIew" 及其子节点会被保存。
+2020-04-26T05:18:37.331Z - info: 只有预制节点 "iconVIew" 及其子节点会被保存。
+2020-04-26T05:18:37.579Z - info: 只有预制节点 "iconVIew" 及其子节点会被保存。
+2020-04-26T05:18:37.818Z - info: 只有预制节点 "iconVIew" 及其子节点会被保存。
+2020-04-26T05:18:38.053Z - info: 只有预制节点 "iconVIew" 及其子节点会被保存。
+2020-04-26T05:18:38.325Z - info: 只有预制节点 "iconVIew" 及其子节点会被保存。
+2020-04-26T05:18:38.591Z - info: 只有预制节点 "iconVIew" 及其子节点会被保存。
+2020-04-26T05:18:38.812Z - info: 只有预制节点 "iconVIew" 及其子节点会被保存。
+2020-04-26T05:18:39.034Z - info: 只有预制节点 "iconVIew" 及其子节点会被保存。
+2020-04-26T06:17:37.280Z - info: shutdown preview server
