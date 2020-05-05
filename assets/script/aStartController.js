@@ -52,9 +52,9 @@ class startManager{
 
     //是否可以加到斜角中去
     isCanreach(point, target, isIgnoreCorner){
-        if(target.x < 0 || target.y < 0) return;
+        if(target.x < 0 || target.y < 0 || target.x > this.xL - 1 || target.y > this.yL - 1 ) return;
         let curData = this.aStartArrays[target.x][target.y];
-        if(target.x < 0 || target.x > this.xL - 1 || target.y < 0 || target.y > this.yL - 1 || curData == -3 || this.isInList(this.closes, target)){//超出范围
+        if(curData == -3 || this.isInList(this.closes, target)){//超出范围
             return false;
         }else{
             if (Math.abs(point.x - target.x) + Math.abs(point.y - target.y) == 1){ //非斜角可以
